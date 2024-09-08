@@ -12,9 +12,6 @@ The **Store Inventory Application** is a web-based system developed to help smal
 - Category management to organize store items.
 - Intuitive and user-friendly interface.
 
-## Live Demo
-*(Include a link if the app is hosted online)*
-
 ## Usage Instructions
 1. **Create an Account**:  
    Sign up for a new account. After registration, you will be automatically logged in and redirected to the landing page.
